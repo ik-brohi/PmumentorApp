@@ -200,7 +200,7 @@ class HomeScreen extends StatelessWidget {
                       description:
                           'Join us for an unforgettable night of live music and fun!',
                       imageUrl:
-                          'https://via.placeholder.com/150', // Replace with event image URL
+                          'https://www.anarapublishing.com/wp-content/uploads/2019/04/photo-1506157786151-b8491531f063.jpeg', // Replace with event image URL
                     ),
                     const SizedBox(width: 10),
                     EventCard(
@@ -209,7 +209,7 @@ class HomeScreen extends StatelessWidget {
                       description:
                           'Explore stunning artworks from local artists.',
                       imageUrl:
-                          'https://via.placeholder.com/150', // Replace with event image URL
+                          'https://mariaankotzeart.co.za/wp-content/uploads/2017/08/Opening-exhibition-1-1.jpg', // Replace with event image URL
                     ),
                   ],
                 ),
